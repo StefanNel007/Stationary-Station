@@ -9,15 +9,16 @@ import amongUsKeychainImage from '../assets/images/among-us-keychain.webp';
 import emoticonStickersImage from '../assets/images/emoticon-stickers.webp';
 import foodEraserImage from '../assets/images/food-eraser.webp';
 import featherBookmarkImage from '../assets/images/feather-bookmark2.webp';
+import placeholderImage from '../assets/images/image-placeholder.png';
 
 
 const imageList = [ bearEraserImage, 
                     multicolorPensImage, 
-                    bearEraserImage, 
+                    placeholderImage, 
                     multicolorPensImage, 
-                    bearEraserImage, 
+                    placeholderImage, 
                     multicolorPensImage, 
-                    bearEraserImage,
+                    placeholderImage,
                     multicolorPensImage, 
                     foodEraserImage, 
                     emoticonStickersImage, 
