@@ -102,7 +102,7 @@ const products = [
     id: 11,
     name: 'among us keyring',
     href: '#',
-    price: 'R5',
+    price: 'R20',
     description: 'among us keyring',
     imageSrc: '',
     imageAlt: 'among us keyring'
