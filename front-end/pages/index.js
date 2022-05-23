@@ -24,7 +24,8 @@ const imageList = [ bearEraserImage,
                     emoticonStickersImage, 
                     flowerStickerImage, 
                     amongUsKeychainImage, 
-                    featherBookmarkImage];
+                    featherBookmarkImage
+                  ];
 
 export default function Home() {
   return (
