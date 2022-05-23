@@ -31,8 +31,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>The Stationary Station - by Luke</title>
-        <meta name="description" content="The Stationary Station - Stationary shop for kids" />
+        <title>The Stationery Station - by Luke</title>
+        <meta name="description" content="The Stationery Station - Stationery shop for kids" />
    
       </Head>
 
@@ -41,7 +41,7 @@ export default function Home() {
           <h1 
             className='text-4xl font-bold uppercase'
           >
-            the stationary station
+            the stationery station
           </h1>
           <h2 className='text-2xl'>by Luke</h2>
         </div>
