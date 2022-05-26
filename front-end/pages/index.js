@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import products from '../assets/data/products';
 import Image from 'next/image';
+import React from 'react';
 
 import bearEraserImage from '../assets/images/bear-eraser.webp';
 import multicolorPensImage from '../assets/images/multicolor-pens.webp';
